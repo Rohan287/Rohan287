@@ -7,4 +7,4 @@
 
 [![Demo](https://img.shields.io/website?label=Web%20Build&url=https%3A%2F%2Fweb.dahliaos.io)](https://web.dahliaos.io)
 
-[![Crowdin](https://badges.crowdin.net/e/1a53a75fb38f15843d4eb6d9b9e4215a/localized.svg)?style=for-the-badge&logo=appveyor](https://translate.dahliaos.io/pangolin)
+[![Crowdin](https://badges.crowdin.net/e/1a53a75fb38f15843d4eb6d9b9e4215a/localized.svg(https://translate.dahliaos.io/pangolin)
